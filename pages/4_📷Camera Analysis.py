@@ -89,6 +89,7 @@ with col3:
         recommendation="Use combined camera analysis to identify feature-rich smartphones with strong multimedia capabilities and optimized pricing."
     )
 
+
 with col4:
     df["Camera_Score"]=df["PC"]+df["FC"]
     chart_label("🧠 RAM VS Camera Performance","Visualizes the relationship between RAM, camera strength and smartphone pricing")

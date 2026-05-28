@@ -6,7 +6,7 @@ An interactive multi-page Business Intelligence dashboard built using Python, St
 
 # 🚀 Project Overview
 
-The Smartphone Analytics Dashboard helps users explore smartphone datasets through advanced visual analytics and real-time filtering.
+The Telecom Analytics Dashboard helps users explore smartphone datasets through advanced visual analytics and real-time filtering.
 
 This dashboard provides:
 
